@@ -1,0 +1,17 @@
+.register-form > label {
+  margin: 10px 0;
+}
+
+.visit-check {
+  background-color: rgba(127, 255, 212, 0.555);
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
