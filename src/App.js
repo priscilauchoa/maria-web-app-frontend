@@ -1,11 +1,11 @@
 import './App.css';
 import Form from './components/Form/Form';
-import Menu from './components/Menu/Menu';
+import Burger from './components/Burger/Burger';
 
 function App() {
   return (
     <div className='App'>
-      <Menu />
+      <Burger />
       <Form />
     </div>
   );
